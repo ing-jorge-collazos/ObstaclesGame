@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{c09f73f0-9cf3-9bb8-385d-ff04f0ea164e}</ProjectGuid>
+    <ProjectGuid>{5cd81962-652b-947d-3195-9399435bb8e4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -285,10 +285,10 @@
         <HintPath>D:\unity\2021.3.18f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>D:\unity\2021.3.18f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
@@ -657,79 +657,79 @@
         <HintPath>D:\unity\2021.3.18f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-        <HintPath>F:\Design &amp; Develop Video Games\projects\Obstacles\Obstacles Game\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+        <HintPath>F:\Design &amp; Develop Video Games\GameObstacles\ObstaclesGame\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
